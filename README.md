@@ -1,3 +1,13 @@
+
+# Captura
+
+> # This repository is no longer actively maintained.
+> # However, I've built a modern, browser-based spiritual successor that requires no installation.  
+# 👉 **[Try Captura Web Recorder](https://mathewsachin.github.io/tools/captura/)**
+>
+
+----
+
 ![Captura](https://mathewsachin.github.io/Captura/assets/Banner.png)
 
 [![Master Build Status](https://img.shields.io/appveyor/ci/MathewSachin/Captura/master.svg?style=flat-square&logo=appveyor)](https://ci.appveyor.com/project/MathewSachin/Captura)
